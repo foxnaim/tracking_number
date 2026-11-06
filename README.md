@@ -1,3 +1,8 @@
+> **foxnaim** · Определение корректных трек-номеров почтовых и курьерских служб
+>
+> Готовая основа под клиентский проект. Стек: Ruby.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 [![Ruby](https://github.com/jkeen/tracking_number/actions/workflows/ruby.yml/badge.svg)](https://github.com/jkeen/tracking_number/actions/workflows/ruby.yml)
 [![Gem Version](https://badge.fury.io/rb/tracking_number.svg)](https://badge.fury.io/rb/tracking_number)
 [![Gem](https://img.shields.io/gem/dt/tracking_number.svg)]()
